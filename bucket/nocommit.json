@@ -1,16 +1,16 @@
 {
-  "version": "0.2.1",
+  "version": "0.4.0",
   "description": "Prevent accidental commits with forbidden phrases",
   "homepage": "https://github.com/waleedbaroudi/nocommit",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/waleedbaroudi/nocommit/releases/download/v0.2.1/nocommit_windows_amd64.zip",
-      "hash": "0a19f49f8b687372c60c81b11e1b066bdfdad99759faad19a917fce14dff976a",
+      "url": "https://github.com/waleedbaroudi/nocommit/releases/download/0.4.0/nocommit_windows_amd64.zip",
+      "hash": "338f3ce2f03edf6609a8ba48da83f53a69456cd16f1b9e4e00706982952987c2",
       "bin": "nocommit.exe"
     },
     "arm64": {
-      "url": "https://github.com/waleedbaroudi/nocommit/releases/download/v0.2.1/nocommit_windows_arm64.zip",
-      "hash": "b299cc77eb5af8d0a44a921e30a4ecc2d55ac5808f72c32c72380974b521794c",
+      "url": "https://github.com/waleedbaroudi/nocommit/releases/download/0.4.0/nocommit_windows_arm64.zip",
+      "hash": "d74f88d15e1509a9d616de14e95cfd73f5d20fd443466380eaf7907b36def5fc",
       "bin": "nocommit.exe"
     }
   },
